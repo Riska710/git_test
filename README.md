@@ -1,1 +1,1 @@
-Ini ada isinya
+This is Riska's first git project
